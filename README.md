@@ -29,7 +29,8 @@ In this section, you should go over the different parts of your project, and des
 ### Features left to impliment 
 + A feature which would be fun to impliment in the future is a shop tab for fans to buy and sell fanmade merch. 
 + A feature to impliment is different user levels, such as moderators for the community forum. 
-+ A feature for users to make and share song playlists with one another. 
++ A feature for users to make and share song playlists with one another.
++ A feature for users to follow VOCALOID producers on the website.  
 + Yet another feature which could be implimented is a daily Hatsune Miku related challenge/minigame, which could potentially let the user earn in-website rewards or points. 
 
 ## Technologies Used
