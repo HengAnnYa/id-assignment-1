@@ -7,10 +7,11 @@ The theme I have chosen for this project is virtual idols, specifically the VOCA
 This website would primarily be for both fans of Hatsune Miku and those who use her to make music, as a means for fans to easily access related content and for music producers to promote their work to more people. I feel that my project is the best way to achieve this due to it having many useful features and everything being in one place. This will in turn hopefully draw in more fans to use the platform, which would in turn benefit music producers who use VOCALOID as their songs have a greater chance of reaching the community.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+
 Adobe XD Wireframe Links:
-Homepage (Web): https://xd.adobe.com/view/d77ad621-5e92-4299-81ac-6eb3e0d26379-8229/
-Feature Pages (Web): https://xd.adobe.com/view/4972c132-532f-4e73-8c8d-2dd3cb52e7e3-1c21/
-Mobile View: https://xd.adobe.com/view/8d17374d-a154-4b9f-98b9-27caa092ef5f-d844/
++ Homepage (Web): https://xd.adobe.com/view/d77ad621-5e92-4299-81ac-6eb3e0d26379-8229/
++ Feature Pages (Web): https://xd.adobe.com/view/4972c132-532f-4e73-8c8d-2dd3cb52e7e3-1c21/
++ Mobile View: https://xd.adobe.com/view/8d17374d-a154-4b9f-98b9-27caa092ef5f-d844/
 
 ## Features
 + As a fan, I want to get updates on upcoming events featuring Hatsune Miku, so that I would not miss anything I'm interested in.
