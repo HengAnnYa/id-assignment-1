@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #heading {
+    font-family: 'Angkor';
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  .button {
+    background-color: rgb(25, 212, 25);
+    border: none;
+    color: white;
+    padding: 15px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .split {
+    flex-basis: 47%;
+  }
+  
+  @media (max-width: 375px) {
+    .container {
+      flex-direction: column;
+    }
+  }
