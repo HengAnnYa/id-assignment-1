@@ -1,0 +1,78 @@
+
+#home-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    padding-top: 10px;
+    position:relative;
+}
+
+#community-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    position: relative;
+}
+
+#creators-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    position:relative;
+}
+
+#merch-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    position:relative;
+}
+
+#explore-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    position: relative;
+}
+
+#updates-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    position: relative;
+}
+
+
+.sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 20%;
+    left: 0;
+    background-color: rgb(255, 0, 174);
+    overflow-x: hidden;
+    padding-top: 16px;
+  }
+  
+  .sidebar a {
+    padding: 20px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+    display: block;
+  }
+  
+  .sidebar a:hover {
+    color: #999398;
+  }
+  
+  .main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }

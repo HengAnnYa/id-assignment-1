@@ -5,17 +5,85 @@
     <meta name="viewport" content="width=device-width" />
     <title>IDasg1</title>
     <link rel='stylesheet'type = "text/css" href = "style.css">
+    <link rel='stylesheet'type = "text/css" href = "menu.css">
     <link href='https://fonts.googleapis.com/css?family=Angkor' rel='stylesheet'>
     <img id="logo" src="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Miku_logo_alt.png/revision/latest?cb=20180719220731">
-  </head>
+</head>
   <body>
-    <div class="search-container">
-        <form action="/action_page.php">
-        <input type="text">
-        <button type="submit"><i class="fa fa-search">Search</i></button>
-        </form>
+      <div class="dropdown">
+        <input type="image" src="https://th.bing.com/th/id/R.8e2c571ff125b3531705198a15d3103c?rik=gzhbzBpXBa%2bxMA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fuser-png-icon-big-image-png-2240.png&ehk=VeWsrun%2fvDy5QDv2Z6Xm8XnIMXyeaz2fhR3AgxlvxAc%3d&risl=&pid=ImgRaw&r=0" onclick="userFunction()" class="dropbtn">
+        <div id="userDropdown" class="dropdown-content">
+          <a href="#profile">My Profile</a>
+          <a href="#settings">Settings</a>
+          <a href="#logout">Log Out</a>
+          <a href="#signup">Sign Up</a>
+        </div>
       </div>
+      <script>
+        /* When the user clicks on the button, 
+        toggle between hiding and showing the dropdown content */
+        function userFunction() {
+          document.getElementById("userDropdown").classList.toggle("show");
+        }
+        
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(event) {
+          if (!event.target.matches('.dropbtn')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+              var openDropdown = dropdowns[i];
+              if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+              }
+            }
+          }
+        }
+    </script> 
+    <div class="dropdown">
+        <input type="image" src="https://cdn1.iconfinder.com/data/icons/organise/512/notification-512.png" onclick="notiFunction()" class="noti-dropbtn">
+        <div id="notiDropdown" class="dropdown-content-noti">
+            <a href="#notif-all">Show All</a>
+            <a href="#following">Following</a>
+            <a href="#bookmarked">Bookmarks</a>
+            <a href="#community">Community</a>
+            <a href="#notif-settings">Settings</a>
+          </div>
+    </div>
+    <script>
+        function notiFunction() {
+          document.getElementById("notiDropdown").classList.toggle("show");
+        }
+        
+        window.onclick = function(event) {
+          if (!event.target.matches('.noti-dropbtn')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content-noti");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+              var openDropdown = dropdowns[i];
+              if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+              }
+            }
+          }
+        }
+    </script> 
+        <div class="search-container">
+            <form action="/action_page.php">
+            <input type="text">
+            <button type="submit">Search</button>
+            </form>
+          </div>
+        
     <section class="container">
+        <div class="sidebar">
+            <a href="#home"><img id="home-icon" src="https://www.pngfind.com/pngs/b/589-5898244_white-house-logo-png.png">Home</a>
+            <a href="#community"><img id="community-icon" src="https://www.pngfind.com/pngs/b/192-1925445_communication-icon-png.png">Community</a>
+            <a href="#creators"><img id="creators-icon" src="https://www.pngfind.com/pngs/b/383-3839735_concert-icon-png.png">Creators Portal</a>
+            <a href="#merch"><img id="merch-icon" src="https://www.pngaaa.com/api-download/47059">Merch</a>
+            <a href="#explore"><img id="explore-icon" src="https://www.pngfind.com/pngs/b/615-6155191_white-magnifying-glass-icon-png.png">Explore</a>
+            <a href="#news"><img id="updates-icon" src="https://www.pngfind.com/pngs/b/29-295910_exclamation-point-png.png">Latest Updates</a>
+        </div>
           <div class="split">
             <img id= "main-img" src="https://picsum.photos/400/400" />
           </div>
