@@ -53,6 +53,7 @@
     background-color: rgb(255, 0, 174);
     overflow-x: hidden;
     padding-top: 16px;
+    flex-basis: 47%;
   }
   
   .sidebar a {
