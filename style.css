@@ -53,10 +53,36 @@ body {
   }
 
   #community-image {
-    display: block;
+    display: inline;
     width: 200px;
     height: 300px;
     margin-left: 220px;
+    margin-top: 20px;
+  }
+
+  #updates-image {
+    display: inline;
+    width: 200px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+
+  #merch-image {
+    display: inline;
+    width: 210px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+
+  #miku-chibi {
+      display: inline;
+      width: 300px;
+      height: 250px;
+      margin-left: 30px;
+      margin-top: 40px;
+
   }
 
   .community-join {
@@ -69,7 +95,39 @@ body {
     text-decoration: underline;
   }
 
+  .updates {
+    margin-left: 85px;
+    margin-top: 0px;
+    color: white;
+    font-family: 'Edu QLD Beginner';
+    font-size: 20px;
+    font-weight:bold;
+    text-decoration: underline;
+  }
+
+  .merch-store {
+    margin-left: 100px;
+    margin-top: 0px;
+    color: white;
+    font-family: 'Edu QLD Beginner';
+    font-size: 20px;
+    font-weight:bold;
+    text-decoration: underline;
+  }
+
+  .chibi-text {
+    margin-left: 60px;
+    margin-top: 0px;
+    color: white;
+    font-family: 'Edu QLD Beginner';
+    font-size: 20px;
+    font-weight:bold;
+  }
   
+.img-button {
+  background-color: none;
+}
+
   .button {
     background-color: rgb(255, 0, 174);
     border-radius: 10px;
@@ -115,6 +173,13 @@ body {
     display: flex;
     justify-content: flex-start;
   }
+
+  .box{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-basis: 47%;
+    }
   
   .split {
     flex-basis: 47%;
@@ -145,7 +210,7 @@ body {
   }
   
   .dropbtn:hover, .dropbtn:focus {
-    background-color: #706868;
+    background-color: #a69696;
   }
   
   .dropdown {
