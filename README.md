@@ -32,10 +32,10 @@ In this section, you should go over the different parts of your project, and des
 + Feature 8: Allows new fans to learn more about Hatsune Miku, by having a 'About' section on the side of the home page that redirects to her Wiki page. 
 
 ### Features left to impliment 
-+ Feature 2: Allows fans to interact with other fans, by having them make discussion posts, ask questions, or upload images in a forum. 
-+ Feature 3: Allows fans to interact with the posts made by other fans, by writing comments and using a like/dislike function under posts. 
-+ Feature 7: Allows users to bookmark posts that interest them to store it for later viewing, by having them click a 'bookmark' button. 
-+ Feature 4: Allows VOCALOID music producers to promote their works, by having them upload short clips of their works under a special 'Creator' tab.
++ A feature which allows fans to interact with other fans, by having them make discussion posts, ask questions, or upload images in a forum. 
++ A feature which allows fans to interact with the posts made by other fans, by writing comments and using a like/dislike function under posts. 
++ A feature which allows users to bookmark posts that interest them to store it for later viewing, by having them click a 'bookmark' button. 
++ A feature which allows VOCALOID music producers to promote their works, by having them upload short clips of their works under a special 'Creator' tab.
 + A feature which would be fun to impliment in the future is a shop tab for fans to buy and sell fanmade merch. 
 + A feature to impliment is different user levels, such as moderators for the community forum. 
 + A feature for users to make and share song playlists with one another.
