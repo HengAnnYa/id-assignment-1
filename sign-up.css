@@ -1,0 +1,52 @@
+#signup-header {
+    display: block;
+    font-family: 'Edu QLD Beginner';
+    font-size: 30px;
+    color: rgb(255, 0, 174);
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+
+  #signup-logo {
+    display: inline; 
+    position:fixed;
+    margin: 15px; 
+    margin-top: 15px;
+    height: 60px;
+    float: left;
+    width: auto; 
+  }
+
+  .signup-form {
+    display: block;
+    position: absolute;
+    text-align: start;
+    left: 500px;
+    color:white;
+  }
+
+  .signup-button {
+    display: block;
+    position:absolute;
+    top: 380px;
+    left: 590px;
+    background-color: rgb(255, 0, 174);
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+  }
+
+  .home-button {
+    display:block;
+    font-family: 'Edu QLD Beginner';
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:white;
+    position: absolute;
+    left:560px;
+    top: 470px;
+  }
