@@ -85,4 +85,4 @@ The development of this site was greatly aided by [W3Schools tutorials](https://
 + [Submit forms](https://www.w3schools.com/html/html_forms.asp)
 + [Dropdowns](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_js_dropdown_hover)
 + [Side menu](https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp)
-+ [Top navigation](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_searchbar3)
++ [Top navigation](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_searchbar3) 
