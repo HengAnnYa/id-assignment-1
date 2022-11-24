@@ -44,6 +44,45 @@ In this section, you should go over the different parts of your project, and des
 
 ## Technologies Used
 
+This project uses css and html.
+
 ## Testing
 
 ## Credit 
+
+### Content
++ The text from the about section in the home page is copied from [the hatsune miku wiki page](https://en.wikipedia.org/wiki/Hatsune_Miku)
+
+### Media
+
+The media used in this site are:
++ [Main homepage image](https://resize.cdn.otakumode.com/ex/1200.680/u/38f4527f159a4b2f99df4f2876322ae7.jpg)
++ [Logo](https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Miku_logo_alt.png/revision/latest?cb=20180719220731)
++ [User icon](https://th.bing.com/th/id/R.8e2c571ff125b3531705198a15d3103c?rik=gzhbzBpXBa%2bxMA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fuser-png-icon-big-image-png-2240.png&ehk=VeWsrun%2fvDy5QDv2Z6Xm8XnIMXyeaz2fhR3AgxlvxAc%3d&risl=&pid=ImgRaw&r=0)
++ [Notification icon](https://cdn1.iconfinder.com/data/icons/organise/512/notification-512.png)
++ [Home icon](https://www.pngfind.com/pngs/b/589-5898244_white-house-logo-png.png)
++ [Community icon](https://www.pngfind.com/pngs/b/192-1925445_communication-icon-png.png)
++ [Creator icon](https://www.pngfind.com/pngs/b/383-3839735_concert-icon-png.png)
++ [Merch icon](https://www.pngaaa.com/api-download/47059)
++ [Explore icon](https://www.pngfind.com/pngs/b/615-6155191_white-magnifying-glass-icon-png.png)
++ [News icon](https://www.pngfind.com/pngs/b/29-295910_exclamation-point-png.png)
++ [Community image](https://th.bing.com/th/id/OIP.QIK7yKtF7cSQzqhdyetTggAAAA?pid=ImgDet&rs=1.png)
++ [Merch image](https://thatshelf.com/wp-content/uploads/2015/11/Hatsune-Miku-Poster.jpg)
++ [Updates image](https://pbs.twimg.com/media/EHiPE1DUwAAiEwj.jpg)
++ [Song recommendation image](https://th.bing.com/th/id/R.dffe0282d5114cdf8bf0138d5da2c03c?rik=YKzesrNXuFBTdg&riu=http%3a%2f%2fnick-347.weebly.com%2fuploads%2f2%2f9%2f0%2f6%2f29066083%2f1716526_orig.png&ehk=KSpe46avWxzk6WWgee4efQHdNKlwpMTEA1LFeE%2fO7p0%3d&risl=&pid=ImgRaw&r=0.png)
++ [Recommendation playlist](https://www.youtube.com/playlist?list=PLGe-PjKSAsae75BJpq68os52xMnfCUgfK)
++ [Explore song](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
++ [Menu updates Link](https://twitter.com/cfm_miku_en)
++ [Image updates link](https://piapro.net/intl/en.html)
++ [Menu merch link](https://www.hottopic.com/pop-culture/shop-by-license/hatsune-miku/)
++ [Image merch link](https://hatsune-miku.backstreetmerch.com/)
++ [Learn more link](https://vocaloid.fandom.com/wiki/Hatsune_Miku)
+
+### Acknowledgements
+
+The development of this site was greatly aided by [W3Schools tutorials](https://www.w3schools.com/). 
++ [Search bar](https://www.w3schools.com/howto/howto_css_searchbar.asp)
++ [Submit forms](https://www.w3schools.com/html/html_forms.asp)
++ [Dropdowns](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_js_dropdown_hover)
++ [Side menu](https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp)
++ [Top navigation](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_searchbar3)
