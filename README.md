@@ -56,6 +56,7 @@ This project uses css and html.
 ### Media
 
 The media used in this site are:
++ [Site background](https://i.pinimg.com/originals/d3/ae/3e/d3ae3e84bb6e1c79bda04463f0dff387.jpg)
 + [Main homepage image](https://resize.cdn.otakumode.com/ex/1200.680/u/38f4527f159a4b2f99df4f2876322ae7.jpg)
 + [Logo](https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Miku_logo_alt.png/revision/latest?cb=20180719220731)
 + [User icon](https://th.bing.com/th/id/R.8e2c571ff125b3531705198a15d3103c?rik=gzhbzBpXBa%2bxMA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fuser-png-icon-big-image-png-2240.png&ehk=VeWsrun%2fvDy5QDv2Z6Xm8XnIMXyeaz2fhR3AgxlvxAc%3d&risl=&pid=ImgRaw&r=0)
