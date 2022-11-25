@@ -13,7 +13,7 @@
     display: inline; 
     position:fixed;
     margin: 15px; 
-    margin-top: 15px;
+    margin-top: 5px;
     height: 60px;
     float: left;
     width: auto; 
@@ -29,14 +29,14 @@
 
   .signup-button {
     display: block;
-    position:absolute;
-    top: 380px;
-    left: 590px;
-    background-color: rgb(255, 0, 174);
+    position:relative;
     width: 100px;
     height: 40px;
+    top: 250px;
+    background-color: rgb(255, 0, 174);
     color: white;
     font-size: 15px;
+    margin: 0 auto;
   }
 
   .home-button {

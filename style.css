@@ -33,15 +33,16 @@ body {
   font-size: 15px;
 }
 
-  #logo {
-    display: inline; 
-    position:fixed;
-    margin: 15px; 
-    margin-top: 0px;
-    height: 60px;
-    float: left;
-    width: auto; 
-  }
+#logo {
+  display: inline; 
+  position:fixed;
+  margin: 15px; 
+  margin-top: 5px;
+  height: 60px;
+  float: left;
+  width: auto; 
+  max-width:100%
+}
 
   
   #main-img {
