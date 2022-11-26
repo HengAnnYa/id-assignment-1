@@ -50,8 +50,9 @@ This project uses javascript, css and html.
 + 1. Sign up form: 
 + -   1. Go to the user icon and click on 'Sign up' in the dropdown menu.
 + -   2. User will be redirected to a sign up form.
-+ -   3. Clicking the 'submit' button will result in a pop up telling the user that the submission was successful. 
-+ -   4. User can return to the home page via a link at the bottom of the page. 
++ -   3. If user does not fill in name, email, or verify that they are above 16, form cannot be submitted. 
++ -   4. Clicking the 'submit' button will result in a pop up telling the user that the submission was successful. 
++ -   5. User can return to the home page via a link at the bottom of the page. 
 
 + 2. Community post: 
 + -   1. Go to community forum either by pressing the community on the main menu or the community image in the main menu. 
@@ -60,6 +61,7 @@ This project uses javascript, css and html.
 
 ### Bugs/problems encountered:
 + Bug: 'User menu' function not working fully; dropdown does not disappear when clicking elsewhere unless directly clicking the user icon itself.
++ Bug: Page error after successful signup form submission.
 + Problem: Unable to make main image responsive due to overlapping elements that I am unable to fix due to my lack of skill. 
 + Problem: Unable to make site fully responive. Some elements in main page (such as merch and update images) may not be accessible on mobile. 
 
