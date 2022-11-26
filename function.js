@@ -2,6 +2,10 @@ function signupFunction() {
   alert("The form was submitted. Thanks for signing up!");
 }
 
+function postFunction() {
+  alert("Post successful.");
+}
+
 function userFunction() {
   document.getElementById("userDropdown").classList.toggle("show");
 }
