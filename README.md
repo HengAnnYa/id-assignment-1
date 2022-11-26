@@ -47,6 +47,21 @@ In this section, you should go over the different parts of your project, and des
 This project uses javascript, css and html.
 
 ## Testing
++ 1. Sign up form: 
++   1. Go to the user icon and click on 'Sign up' in the dropdown menu.
++   2. User will be redirected to a sign up form.
++   3. Clicking the 'submit' button will result in a pop up telling the user that the submission was successful. 
++   4. User can return to the home page via a link at the bottom of the page. 
+
++ 2. Community post: 
++   1. Go to community forum either by pressing the community on the main menu or the community image in the main menu. 
++   2. The user will be redirected to the community forum. 
++   3. Clicking the 'post' button will result in a pop up telling the user that the post was made. 
+
+### Bugs/problems encountered:
++ Bug: 'User menu' function not working fully; dropdown does not disappear when clicking elsewhere unless directly clicking the user icon itself.
++ Problem: Unable to make main image responsive due to overlapping elements that I am unable to fix due to my lack of skill. 
++ Problem: Unable to make site fully responive. Some elements in main page (such as merch and update images) may not be accessible on mobile. 
 
 ## Credit 
 
