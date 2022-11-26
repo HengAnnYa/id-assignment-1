@@ -7,6 +7,7 @@
     <link rel='stylesheet'type = "text/css" href = "normalize.css">
     <link rel='stylesheet'type = "text/css" href = "style.css">
     <link rel='stylesheet'type = "text/css" href = "menu.css">
+    <script src="function.js" defer></script>
     <link href='https://fonts.googleapis.com/css?family=Edu QLD Beginner' rel='stylesheet'>
     <img id="logo" src="images/Miku-logo.png">
 </head>
@@ -20,27 +21,7 @@
           <a href="sign-up-form.html">Sign Up</a>
         </div>
       </div>
-      <script>
-        /* When the user clicks on the button, 
-        toggle between hiding and showing the dropdown content */
-        function userFunction() {
-          document.getElementById("userDropdown").classList.toggle("show");
-        }
-        
-        // Close the dropdown if the user clicks outside of it
-        window.onclick = function(event) {
-          if (!event.target.matches('.dropbtn')) {
-            var dropdowns = document.getElementsByClassName("dropdown-content");
-            var i;
-            for (i = 0; i < dropdowns.length; i++) {
-              var openDropdown = dropdowns[i];
-              if (openDropdown.classList.contains('show')) {
-                openDropdown.classList.remove('show');
-              }
-            }
-          }
-        }
-    </script> 
+
     <div class="dropdown">
         <input type="image" src="https://cdn1.iconfinder.com/data/icons/organise/512/notification-512.png" onclick="notiFunction()" class="noti-dropbtn">
         <div id="notiDropdown" class="dropdown-content-noti">
@@ -51,24 +32,6 @@
             <a href="#notif-settings">Settings</a>
           </div>
     </div>
-    <script>
-        function notiFunction() {
-          document.getElementById("notiDropdown").classList.toggle("show");
-        }
-        
-        window.onclick = function(event) {
-          if (!event.target.matches('.noti-dropbtn')) {
-            var dropdowns = document.getElementsByClassName("dropdown-content-noti");
-            var i;
-            for (i = 0; i < dropdowns.length; i++) {
-              var openDropdown = dropdowns[i];
-              if (openDropdown.classList.contains('show')) {
-                openDropdown.classList.remove('show');
-              }
-            }
-          }
-        }
-    </script> 
         <div class="search-container">
             <form action="/action_page.php">
             <input type="text">

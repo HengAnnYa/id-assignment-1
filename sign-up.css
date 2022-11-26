@@ -32,7 +32,8 @@
     position:relative;
     width: 100px;
     height: 40px;
-    top: 250px;
+    top: 10px;
+    left: -65px;
     background-color: rgb(255, 0, 174);
     color: white;
     font-size: 15px;
@@ -48,6 +49,6 @@
     text-decoration: underline;
     color:white;
     position: absolute;
-    left:560px;
+    left:550px;
     top: 470px;
   }
