@@ -26,13 +26,13 @@ In this section, you should go over the different parts of your project, and des
 + Feature 2: Allows users to get song recommendations by clicking on an image of Hatsune Miku. 
 + Feature 3: Allows users to join the community forum by clicking on the community image or tab in the main menu, which redirects to said page. 
 + Feature 4: Allows users to get updates and visit the original source, by clicking on the updates image or tab in the main menu, which redirects to the official Hatsune Miku website and twitter. 
-+ Feature 5: Allows users to browse for new content and visit the original source, by having them check under a special 'Creator's Portal' tab in the main menu. 
++ Feature 5: Allows fans to interact with other fans, by having them make discussion posts, ask questions, or upload images in a forum. 
 + Feature 6: Allows users to browse for merchandise and visit the original source, by clicking on the community image or tab in the main menu, which redirects to reliable merch sites.  
 + Feature 7: Allows users to manage site notifications by clicking a bell icon in the top right corner of the site. 
 + Feature 8: Allows new fans to learn more about Hatsune Miku, by having a 'About' section on the side of the home page that redirects to her Wiki page. 
 
 ### Features left to impliment 
-+ A feature which allows fans to interact with other fans, by having them make discussion posts, ask questions, or upload images in a forum. 
++ A feature which allows users to browse for new content and visit the original source, by having them check under a special 'Creator's Portal' tab in the main menu.
 + A feature which allows fans to interact with the posts made by other fans, by writing comments and using a like/dislike function under posts. 
 + A feature which allows users to bookmark posts that interest them to store it for later viewing, by having them click a 'bookmark' button. 
 + A feature which allows VOCALOID music producers to promote their works, by having them upload short clips of their works under a special 'Creator' tab.
@@ -44,9 +44,24 @@ In this section, you should go over the different parts of your project, and des
 
 ## Technologies Used
 
-This project uses css and html.
+This project uses javascript, css and html.
 
 ## Testing
++ 1. Sign up form: 
++   1. Go to the user icon and click on 'Sign up' in the dropdown menu.
++   2. User will be redirected to a sign up form.
++   3. Clicking the 'submit' button will result in a pop up telling the user that the submission was successful. 
++   4. User can return to the home page via a link at the bottom of the page. 
+
++ 2. Community post: 
++   1. Go to community forum either by pressing the community on the main menu or the community image in the main menu. 
++   2. The user will be redirected to the community forum. 
++   3. Clicking the 'post' button will result in a pop up telling the user that the post was made. 
+
+### Bugs/problems encountered:
++ Bug: 'User menu' function not working fully; dropdown does not disappear when clicking elsewhere unless directly clicking the user icon itself.
++ Problem: Unable to make main image responsive due to overlapping elements that I am unable to fix due to my lack of skill. 
++ Problem: Unable to make site fully responive. Some elements in main page (such as merch and update images) may not be accessible on mobile. 
 
 ## Credit 
 
