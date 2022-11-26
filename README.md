@@ -51,13 +51,14 @@ This project uses javascript, css and html.
 + -   1. Go to the user icon and click on 'Sign up' in the dropdown menu.
 + -   2. User will be redirected to a sign up form.
 + -   3. If user does not fill in name, email, or verify that they are above 16, form cannot be submitted. 
-+ -   4. Clicking the 'submit' button will result in a pop up telling the user that the submission was successful. 
++ -   4. If all necessary fields are filled out, clicking the 'submit' button will result in a pop up telling the user that the submission was successful. 
 + -   5. User can return to the home page via a link at the bottom of the page. 
 
 + 2. Community post: 
 + -   1. Go to community forum either by pressing the community on the main menu or the community image in the main menu. 
 + -   2. The user will be redirected to the community forum. 
 + -   3. Clicking the 'post' button will result in a pop up telling the user that the post was made. 
++ -   4. Not putting any input results in a warning telling the user that field cannot be blank. 
 
 ### Bugs/problems encountered:
 + Bug: 'User menu' function not working fully; dropdown does not disappear when clicking elsewhere unless directly clicking the user icon itself.
