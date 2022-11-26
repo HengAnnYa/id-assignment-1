@@ -54,7 +54,7 @@ This project uses javascript, css and html.
 +   4. User can return to the home page via a link at the bottom of the page. 
 
 + 2. Community post: 
-+   1. Go to community forum either by pressing the community on the main menu or the community image in the main menu. 
+++   1. Go to community forum either by pressing the community on the main menu or the community image in the main menu. 
 +   2. The user will be redirected to the community forum. 
 +   3. Clicking the 'post' button will result in a pop up telling the user that the post was made. 
 
