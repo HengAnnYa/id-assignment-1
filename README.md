@@ -26,13 +26,13 @@ In this section, you should go over the different parts of your project, and des
 + Feature 2: Allows users to get song recommendations by clicking on an image of Hatsune Miku. 
 + Feature 3: Allows users to join the community forum by clicking on the community image or tab in the main menu, which redirects to said page. 
 + Feature 4: Allows users to get updates and visit the original source, by clicking on the updates image or tab in the main menu, which redirects to the official Hatsune Miku website and twitter. 
-+ Feature 5: Allows users to browse for new content and visit the original source, by having them check under a special 'Creator's Portal' tab in the main menu. 
++ Feature 5: Allows fans to interact with other fans, by having them make discussion posts, ask questions, or upload images in a forum. 
 + Feature 6: Allows users to browse for merchandise and visit the original source, by clicking on the community image or tab in the main menu, which redirects to reliable merch sites.  
 + Feature 7: Allows users to manage site notifications by clicking a bell icon in the top right corner of the site. 
 + Feature 8: Allows new fans to learn more about Hatsune Miku, by having a 'About' section on the side of the home page that redirects to her Wiki page. 
 
 ### Features left to impliment 
-+ A feature which allows fans to interact with other fans, by having them make discussion posts, ask questions, or upload images in a forum. 
++ A feature which allows users to browse for new content and visit the original source, by having them check under a special 'Creator's Portal' tab in the main menu.
 + A feature which allows fans to interact with the posts made by other fans, by writing comments and using a like/dislike function under posts. 
 + A feature which allows users to bookmark posts that interest them to store it for later viewing, by having them click a 'bookmark' button. 
 + A feature which allows VOCALOID music producers to promote their works, by having them upload short clips of their works under a special 'Creator' tab.
@@ -44,7 +44,7 @@ In this section, you should go over the different parts of your project, and des
 
 ## Technologies Used
 
-This project uses css and html.
+This project uses javascript, css and html.
 
 ## Testing
 
