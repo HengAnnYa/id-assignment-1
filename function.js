@@ -1,5 +1,5 @@
-function signupFunction() {
-  alert("The form was submitted. Thanks for signing up!");
+function validateSubmit() {
+  alert("Your form has been submitted. Thanks for signing up!");
 }
 
 function postFunction() {
