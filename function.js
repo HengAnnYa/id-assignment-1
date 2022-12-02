@@ -39,3 +39,12 @@ window.onclick = function (event) {
     }
   }
 };
+
+function hamburgerFunction() {
+  var x = document.getElementById("mySidebar");
+  if (x.className === "sidebar") {
+    x.className += " responsive";
+  } else {
+    x.className = "sidebar";
+  }
+}

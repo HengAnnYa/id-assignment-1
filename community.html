@@ -10,6 +10,7 @@
     <link rel='stylesheet'type = "text/css" href = "forum.css">
     <script src="function.js" defer></script>
     <link href='https://fonts.googleapis.com/css?family=Edu QLD Beginner' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <img id="logo" src="images/Miku-logo.png">
 </head>
   <body>
@@ -47,14 +48,17 @@
       </div>      
         
     <section class="container">
-        <div class="sidebar">
+        <div class="sidebar" id="mySidebar">
             <a href="index.html"><img id="home-icon-community" src="https://www.pngfind.com/pngs/b/589-5898244_white-house-logo-png.png">Home</a>
             <a href="#community"><img id="community-icon" src="https://www.pngfind.com/pngs/b/192-1925445_communication-icon-png.png">Community</a>
             <a href="#creators"><img id="creators-icon" src="https://www.pngfind.com/pngs/b/383-3839735_concert-icon-png.png">Creators Portal</a>
             <a href ="#merch" onclick="window.location.href='https://www.hottopic.com/pop-culture/shop-by-license/hatsune-miku/';"><img id="merch-icon" src="https://www.pngaaa.com/api-download/47059">Merch</a>
             <a href="#explore"><img id="explore-icon" src="https://www.pngfind.com/pngs/b/615-6155191_white-magnifying-glass-icon-png.png">Explore</a>
             <a href ="#news" onclick="window.location.href='https://twitter.com/cfm_miku_en';"><img id="updates-icon" src="https://www.pngfind.com/pngs/b/29-295910_exclamation-point-png.png">Latest Updates</a>
-        </div>
+            <a href="javascript:void(0);" class="icon" onclick="hamburgerFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
         <div>
               <form class="box" onsubmit="postFunction()">
                 <input type="text" class="new-post" name="mypost" value="New post..." required="true">
