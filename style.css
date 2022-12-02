@@ -12,7 +12,7 @@ body {
     font-family: 'Edu QLD Beginner';
     display: block;
     margin-left: 240px;
-    font-size: 35px;
+    font-size: 200%;
     color:rgb(255, 0, 174);
     font-weight: bolder;
   }
@@ -30,7 +30,7 @@ body {
   color: white;
   margin-top: 0px;
   margin-left: 30px;
-  font-size: 15px;
+  font-size: 100%;
 }
 
 #logo {
@@ -62,7 +62,7 @@ body {
   #updates-image {
     display: inline;
     width: 18%;
-    margin-left: 30px;
+    margin-left: 40px;
     margin-top: 20px;
   }
 
