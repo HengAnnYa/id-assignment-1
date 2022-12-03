@@ -178,6 +178,7 @@ body {
 
   .box{
     display: flex;
+    position: relative;
     flex-direction: row;
     align-items: flex-start;
     }
@@ -285,6 +286,7 @@ body {
       flex-direction: column;
       margin: 0;
       display:block;
+      left: 0;
     }
 
     .search-container {

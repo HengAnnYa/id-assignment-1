@@ -52,3 +52,11 @@
     left:550px;
     top: 470px;
   }
+
+  @media screen and (max-width: 600px) {
+    .signup-form {
+      flex-direction: column;
+      left: 0;
+    }
+    
+  }
