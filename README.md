@@ -63,8 +63,7 @@ This project uses javascript, css and html.
 ### Bugs/problems encountered:
 + Bug: 'User menu' function not working fully; dropdown does not disappear when clicking elsewhere unless directly clicking the user icon itself.
 + Bug: Page error after successful signup form submission.
-+ Problem: Unable to make main image responsive due to overlapping elements that I am unable to fix due to my lack of skill. 
-+ Problem: Unable to make site fully responive. Some elements in main page (such as merch and update images) may not be accessible on mobile. 
++ Problem: Unable to make site fully responive due to my lack of skill.  
 
 ## Credit 
 
