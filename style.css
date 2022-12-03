@@ -270,13 +270,21 @@ body {
   .show {display: block;}
 
   
-  @media screen and (max-width: 375px) {
+  @media screen and (max-width: 600px) {
+    .split {
+      flex-direction: column;
+      margin: 0;
+    }
     .container {
       flex-direction: column;
+      margin: 0;
+      display:block;
     }
 
     .box {
       flex-direction: column;
+      margin: 0;
+      display:block;
     }
 
     .search-container {
